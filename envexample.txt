@@ -1,0 +1,9 @@
+OPENROUTER_API_KEY=your-openrouter-api-key-here
+BRAVE_API_KEY=your-brave-search-key-here
+
+# Optional override (default shown):
+# MODEL_NAME=inclusionai/ling-3.0-flash-sante:free
+
+# Cloud Translation API v2 key (not an OAuth client-id/secret -- see README).
+# Powers the global translate button; without it, the page just stays untranslated.
+GOOGLE_TRANSLATE_API_KEY=your-google-cloud-translation-api-key-here
